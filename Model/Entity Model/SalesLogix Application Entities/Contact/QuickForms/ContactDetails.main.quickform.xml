@@ -238,7 +238,7 @@
         <Property name="DefaultNamespace" type="System.String">Sage.Entity.Interfaces</Property>
         <Property name="AssemblyName" type="System.String">Sage.Entity.Interfaces</Property>
         <Property name="EntityReferenceName" type="System.String"></Property>
-        <Property name="ValueMember" type="System.String">OtherPhone</Property>
+        <Property name="ValueMember" type="System.String">HomePhone</Property>
       </Properties>
       <ControlDefinition>
         <Properties>
