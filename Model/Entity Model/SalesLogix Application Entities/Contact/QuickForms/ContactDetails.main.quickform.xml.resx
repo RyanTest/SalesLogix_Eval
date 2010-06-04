@@ -279,4 +279,7 @@
   <data name="nmeContactName.ButtonToolTip" xml:space="preserve">
     <value>Edit</value>
   </data>
+  <data name="QFLabel.Text" xml:space="preserve">
+    <value>Hello</value>
+  </data>
 </root>
