@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -139,7 +139,7 @@
     <value>Move</value>
   </data>
   <data name="txtAssistant.Caption" xml:space="preserve">
-    <value>Assistant:</value>
+    <value>Asst:</value>
   </data>
   <data name="txtSalutation.Caption" xml:space="preserve">
     <value>Dear:</value>
@@ -281,5 +281,8 @@
   </data>
   <data name="QFLabel.Text" xml:space="preserve">
     <value>Hello</value>
+  </data>
+  <data name="QFLabel2.Text" xml:space="preserve">
+    <value>New Label</value>
   </data>
 </root>
