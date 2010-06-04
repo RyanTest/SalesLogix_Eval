@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -139,7 +139,7 @@
     <value>Move</value>
   </data>
   <data name="txtAssistant.Caption" xml:space="preserve">
-    <value>Asst:</value>
+    <value>Assistant:</value>
   </data>
   <data name="txtSalutation.Caption" xml:space="preserve">
     <value>Dear:</value>
